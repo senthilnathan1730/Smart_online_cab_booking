@@ -10,7 +10,7 @@
 
 </p>
 
-<img align="right" width="500" src="assets/cab-booking.jpg" alt="Sundu Cabs Image" />
+<img align="right" width="500" src="assects/img1.jpg" alt="Sundu Cabs Image" />
 
 <section style="background-color: #0f172a; color: #f1f5f9; padding: 2rem; border-radius: 1rem; max-width: 800px; margin: auto;">
   <h2 style="color: #22c55e; font-size: 2rem; font-weight: bold; margin-bottom: 1rem;">🛠️ Project Overview</h2>
@@ -41,16 +41,7 @@
 
 ---
 
-## 🖼️ Screenshots
 
-<img src="assets/login.png" alt="Login Page" width="100%" />
-<img src="assets/register.png" alt="Register Page" width="100%" />
-<img src="assets/booking.png" alt="Cab Booking Form" width="100%" />
-<img src="assets/user-dashboard.png" alt="User Dashboard" width="100%" />
-<img src="assets/booking-history.png" alt="Booking History" width="100%" />
-<img src="assets/admin-panel.png" alt="Admin Panel" width="100%" />
-
----
 
 ## 🙋‍♂️ Author
 
