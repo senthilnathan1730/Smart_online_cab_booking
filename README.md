@@ -4,6 +4,10 @@
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/senthilnathan1730/Smart_online_cab_booking?style=for-the-badge" alt="Top Language">
   <img src="https://img.shields.io/github/last-commit/senthilnathan1730/Smart_online_cab_booking?style=for-the-badge" alt="Last Commit">
+  <a href="https://your-live-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Live-Project-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+</a>
+
 </p>
 
 <img align="right" width="500" src="assets/cab-booking.jpg" alt="Sundu Cabs Image" />
